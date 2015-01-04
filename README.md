@@ -17,7 +17,7 @@ Currently you are in the root of the repo, and you should see 3 things:
 
 Inside of [*files*][files] you will find the raw downloadable lists of bookmarks. There is the [*bookmarks.md*][bookmarks.md] file and [*bookmarks.html*][bookmarks.html] file. They are both the same, the only difference is the formatting. The first (bookmarks.md) is in the markdown syntax that Github uses, and bookmarks.html is simply the default HTML file that Google Chrome exports. Download them as you see fit (take a look at the [README][/files/readme] in the *files* directory for more info).  
 
-###Looking Ahead
+###Future
 I really don't know where this project will go. It was made on a whim, as I simply wanted to share the sites I find particularly interesting or useful with others. These are some thoughts on what I hope this might become. 
 #####Contributing
 This is meant to be a project for the community at large, so I really hope that people will contribute more links that they think would be good additions to the list. If you would like to contribute, just fork this, add your links and submit a pull request. There aren't really any limits as to what you link to, except for keeping it "PG13" (a.k.a appropriate, not overtly NSFW), but I do reserve the right to either remove links that I don't feel add to the list, or to refuse pull requests at my discretion. This is not to stop people from contributing, but only to make sure this doesn't become just a huge mess.
@@ -28,7 +28,7 @@ Besides contributing links of your own to the list, I welcome any feedback or su
 I am considering making this into a website in the future, likely using Github Pages, so keep an eye out for that.
 
 
-[#future]: #LookingAhead
+[#future]: #Future
 [#contribute]: #contribute
 [#learning]: /files/bookmarks.md#learning
 [#music]: /files/bookmarks.md#music
