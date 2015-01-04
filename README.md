@@ -5,7 +5,7 @@ _A categorized list of the websites I have bookmarked._
 ###Background
 Bookmarks are a great way of keeping sites close at hand that you either use a lot or are helpful for specific tasks. Another reason to bookmark pages is to not lose things - the internet is huge, and trying to find a website can sometimes prove to be a challenge. So why not just keep lots of useful websites right at your fingertips?
 
-This repo - [for now][#future] - contains my personal collection of bookmarks. I have collected these links from all over the place and sorted the links into different categories (E.g. [Learning][#learning] or [Music][#music]) in the intrest of simplicity and ease of navigation. Feel free to download these lists. _Please check out the [how to contribute][#contribute] section if you are interested in adding bookmarks that are not here (it is encouraged!)_
+This repo - [for now][#future] - contains my personal collection of bookmarks. I have collected these links from all over the place and sorted the links into different categories (E.g. [Learning][#learning] or [Music][#music]) in the intrest of simplicity and ease of navigation. Feel free to download these lists. _Please check out the [how to contribute][#contributing] section if you are interested in adding bookmarks that are not here (it is encouraged!)_
 
 ###Repo Structure
 As of right now, this repo is very basic in structure, partially because there is not much here yet, and partially because I am still learning the GitHub system (on this subject, if you see any mistakes I am making in my usage of GitHub, please point them out to me!) 
