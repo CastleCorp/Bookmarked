@@ -1,8 +1,4 @@
-<!DOCTYPE NETSCAPE-Bookmark-file-1>
-<!-- This is an automatically generated file.
-     It will be read and overwritten.
-     DO NOT EDIT! -->
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<!-- Bookmarks.md was converted from an HTML file, so if there are any issues with it, I apologise. -->
 <TITLE>Bookmarks</TITLE>
 <H1>Bookmarks</H1>
 <DL><p>
