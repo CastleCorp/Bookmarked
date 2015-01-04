@@ -28,7 +28,7 @@ Besides contributing links of your own to the list, I welcome any feedback or su
 I am considering making this into a website in the future, likely using Github Pages, so keep an eye out for that.
 
 
-[#future]: #Future
+[#future]: #future
 [#contribute]: #contribute
 [#learning]: /files/bookmarks.md#learning
 [#music]: /files/bookmarks.md#music
