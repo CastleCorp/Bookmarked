@@ -11,7 +11,8 @@ This repo - [for now][#future] - contains my personal collection of bookmarks. I
 As of right now, this repo is very basic in structure, partially because there is not much here yet, and partially because I am still learning the GitHub system (on this subject, if you see any mistakes I am making in my usage of GitHub, please point them out to me!) 
 
 Currently you are in the root of the repo, and you should see 3 things:
-1. a folder name **files**
+
+1. a directory name **files**
 2. a file named **LICENSE**
 3. and the **README.md** (hint: you are currently reading this one)
 
