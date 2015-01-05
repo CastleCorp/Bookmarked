@@ -11,11 +11,11 @@ This repo - [for now][#future] - contains my personal collection of bookmarks. I
 As of right now, this repo is very basic in structure, partially because there is not much here yet, and partially because I am still learning the GitHub system (on this subject, if you see any mistakes I am making in my usage of GitHub, please point them out to me!) 
 
 Currently you are in the root of the repo, and you should see 3 things:
-1. a folder name *files*
-2. a file named *LICENSE*
-3. and the *README.md* (hint: you are currently reading this one)
+1. a folder name **files**
+2. a file named **LICENSE**
+3. and the **README.md** (hint: you are currently reading this one)
 
-Inside of [*files*][files] you will find the raw downloadable lists of bookmarks. There is the [*bookmarks.md*][bookmarks.md] file and [*bookmarks.html*][bookmarks.html] file. They are both the same, the only difference is the formatting. The first (bookmarks.md) is in the markdown syntax that Github uses, and bookmarks.html is simply the default HTML file that Google Chrome exports. Download them as you see fit (take a look at the [README][/files/readme] in the *files* directory for more info).  
+Inside of [**files**][files] you will find the raw downloadable lists of bookmarks. There is the [**bookmarks.md**][bookmarks.md] file and [**bookmarks.html**][bookmarks.html] file. They are both the same, the only difference is the formatting. The first (bookmarks.md) is in the markdown syntax that Github uses, and bookmarks.html is simply the default HTML file that Google Chrome exports. Download them as you see fit (take a look at the [**README**][/files/readme] in the **files** directory for more info).  
 
 ###Future
 I really don't know where this project will go. It was made on a whim, as I simply wanted to share the sites I find particularly interesting or useful with others. These are some thoughts on what I hope this might become. 
